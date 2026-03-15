@@ -1,0 +1,23 @@
+# AI Companion / Adult App Proxy Rules
+# Updated: 2026
+
+PROCESS-NAME,VibeMate
+PROCESS-NAME,Replika
+PROCESS-NAME,Chai
+
+DOMAIN-SUFFIX,vibemate.com
+DOMAIN-SUFFIX,lovense.com
+DOMAIN-SUFFIX,lovense-api.com
+
+DOMAIN-KEYWORD,vibemate
+DOMAIN-KEYWORD,lovense
+DOMAIN-KEYWORD,replika
+DOMAIN-KEYWORD,chai
+
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,api.stripe.com
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,cloudfront.net
