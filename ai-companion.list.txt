@@ -1,6 +1,3 @@
-# AI Companion / Adult App Proxy Rules
-# Updated: 2026
-
 PROCESS-NAME,VibeMate
 PROCESS-NAME,Replika
 PROCESS-NAME,Chai
